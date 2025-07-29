@@ -1,6 +1,6 @@
 # ⭐ Star Wars Product
 
-An interactive and visually engaging web app that showcases iconic Star Wars merchandise with dynamic animations and immersive design. Built with HTML, CSS and JavaScript, Star-Wars-Product delivers a captivating experience inspired by the legendary galaxy far, far away.
+An interactive and visually engaging web app that showcases iconic Star Wars merchandise with dynamic animations and immersive design. Built with HTML, CSS and JavaScript. Star-Wars-Product delivers a captivating experience inspired by the legendary galaxy far, far away.
 
 ---
 
